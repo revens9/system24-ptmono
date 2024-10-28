@@ -84,5 +84,5 @@
 	--green-2: oklch(53% 0.12 160);
 }
 * {
-	font-family: 'PT Mono';
+	font-family: 'PT Mono'!important;
 }

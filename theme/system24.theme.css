@@ -47,7 +47,6 @@
 
 	/* accent colors */
 	--acc-0: var(--purple); /* main accent color. */
-	--acc-1: var(--purple-1); /* color of accent buttons when hovered. */
 	--acc-2: var(--purple-2); /* color of accent buttons when clicked. */
 
 	/* borders */
